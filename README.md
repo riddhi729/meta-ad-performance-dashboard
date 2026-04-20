@@ -6,7 +6,7 @@ A Power BI dashboard designed to analyze Facebook and Instagram ad performance, 
 
 ## 🚀 Project Overview
 
-This project focuses on analyzing Meta advertising data to evaluate campaign effectiveness across platforms.
+This project provides actionable insights into campaign performance and user behavior. It simulates a real-world marketing analytics scenario to evaluate how ads perform across platforms and helps in optimizing engagement and conversion strategies.
 
 The dashboard provides a clear and interactive view of key performance metrics, helping identify trends, optimize campaigns, and improve overall ROI.
 
