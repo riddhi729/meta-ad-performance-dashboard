@@ -87,8 +87,7 @@ The project uses structured datasets representing different aspects of advertisi
 ## 🖼️ Dashboard Preview
 
 ### Facebook Dashboard
-![image alt]_(https://github.com/riddhi729/meta-ad-performance-dashboard/blob/e68edc34bd28f61fc3765117abef951e093f45dc/Facebook-Dashboard.png)
-
+<img width="1779" height="992" alt="Image" src="https://github.com/user-attachments/assets/78a9156f-ff3c-42c9-a6d2-7e7a3f22cb48" />
 ### Instagram Dashboard  
 ![image alt]_(https://github.com/riddhi729/meta-ad-performance-dashboard/blob/e68edc34bd28f61fc3765117abef951e093f45dc/Instagram-Dashboard.png)
 
