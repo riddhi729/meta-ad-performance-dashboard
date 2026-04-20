@@ -50,6 +50,12 @@ The project uses structured datasets representing different aspects of advertisi
 
 ---
 
+🎥 Demo Video
+
+(https://github.com/user-attachments/assets/63484f68-3ce8-47cb-8dc9-22eec40ba859)
+
+---
+
 ## 📊 Dashboard Features
 
 ### KPI Metrics
