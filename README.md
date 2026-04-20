@@ -92,11 +92,6 @@ The project uses structured datasets representing different aspects of advertisi
 ### Instagram Dashboard  
 ![image alt]_(https://github.com/riddhi729/meta-ad-performance-dashboard/blob/e68edc34bd28f61fc3765117abef951e093f45dc/Instagram-Dashboard.png)
 
----
-
-## 🎥 Demo Video
-(<!-- Uploading "WhatsApp Video 2026-04-18 at 4.35.58 PM.mp4"... -->)
-
 
 ---
 
